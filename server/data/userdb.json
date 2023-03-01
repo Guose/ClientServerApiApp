@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Justin Elder",
+      "phoneNumber": "(555)555-4362",
+      "email": "justin@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Kathleen Lordan",
+      "phoneNumber": "(555)555-2164",
+      "email": "cuggle1008@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Audrey Morris",
+      "phoneNumber": "(555)505-3382",
+      "email": "theaug@comcast.com"
+    },
+    {
+      "id": 4,
+      "name": "Holly Jean",
+      "phoneNumber": "5555556174",
+      "email": "hollybrocki@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "John Elder",
+      "phoneNumber": "(555)555-2032",
+      "email": "john@showcasemi.com"
+    },
+    {
+      "id": 6,
+      "name": "Sheetal Mathur",
+      "phoneNumber": "(555)555-5627",
+      "email": "sheetal@gmail.com"
+    }
+  ]
+}
